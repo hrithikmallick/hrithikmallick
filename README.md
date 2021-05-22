@@ -28,7 +28,7 @@
 
 
 
-### Show some ❤️ by starring some of the repositories!
+ <h1 align="center"> Show some ❤️ by starring some of the repositories!</h1>
 
 </div>
 
