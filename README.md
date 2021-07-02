@@ -53,9 +53,7 @@
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>
 
 
- ## Support
-
-<h3 align="center"><img src="https://www.buymeacoffee.com/assets/img/custom_images/purple_img.png" alt="Show some ❤️ by starring some of my repositories!" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></h3>
+<h3 align="center>Show some 🖤 by staring some of my repo</h3>
 
 <!--
 **hrithikmallick/hrithikmallick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
