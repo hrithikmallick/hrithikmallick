@@ -25,12 +25,8 @@
 
 - 📫 How to reach me [Click here](mailto:hrithikmallick9051@gmail.com)
 
+<br/>
 
-
-
-
-
-</div>
 
 
 
