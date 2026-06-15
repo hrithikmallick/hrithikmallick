@@ -1,6 +1,6 @@
 # Hi, I'm Hrithik Mallick 👋
 
-**GenAI / Applied AI Engineer** specializing in LLM & RAG Systems, Text-to-SQL, and Python-based GenAI pipelines.
+**GenAI Engineer** specializing in LLM & RAG Systems, Text-to-SQL, and Python-based GenAI pipelines.
 
 📍 Kolkata, India
 📧 hrithikmallick2000@gmail.com
