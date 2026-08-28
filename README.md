@@ -12,27 +12,7 @@
 
 I'm a Gen AI Engineer with 2.5+ years of experience building production-grade GenAI systems for enterprise ERP platforms. My focus areas include RAG pipelines, LLM-based query routing, and rule-assisted Text-to-SQL using **Python, LangChain, OpenAI API, and pgvector**. I've delivered a conversational AI Business Analyst spanning 5+ ERP modules, powered by a two-LLM pipeline for query polishing and result validation.
 
----
 
-## 💼 Work Experience
-
-### GenAI / Applied AI Engineer — ViTWO-6 Livo Technologies Pvt. Ltd.
-*Dec 2023 – May 2026 · Kolkata*
-
-**RAG Architecture & Retrieval**
-- Architected a production RAG-based AI Business Analyst over enterprise ERP data (Sales, Procurement, Finance, Inventory, Production), enabling conversational querying across 5+ modules without manual SQL.
-- Built a two-LLM pipeline: one LLM polishes and classifies user queries (RAG vs. SQL routing), while a second validates and reformats the final answer against business terminology, improving response quality.
-- Implemented domain-aware semantic chunking with tenant-ID isolation, separating metadata from business-data columns to reduce hallucinations on structured tabular ERP data.
-
-**Text-to-SQL & Prompt Engineering**
-- Built a context-aware Text-to-SQL engine with rule-assisted generation — schema-bound hard rules + LLM prompt templates convert natural-language questions into SQL across complex multi-table ERP schemas.
-- Applied schema-aware prompt templates, few-shot prompting, and chain-of-thought (CoT) reasoning to improve accuracy on multi-join, aggregation-heavy queries.
-
-**Data Engineering & Backend**
-- Built ERP data ingestion pipelines: ERP DB → cron → AWS S3 (Parquet) → PySpark batch processing → OpenAI embeddings → pgvector, scoped per tenant ID.
-- Developed backend ERP services in Java and Spring Boot — REST APIs, CI/CD pipelines, and AWS EC2 deployments across Sales, Finance, Inventory, and Procurement modules.
-
----
 
 ## 🛠️ Projects
 
