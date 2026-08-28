@@ -10,13 +10,13 @@
 
 ## 🚀 About Me
 
-I'm a Gen AI Engineer with 2.5+ years of experience building production-grade GenAI systems for enterprise ERP platforms. My focus areas include RAG pipelines, LLM-based query routing, and rule-assisted Text-to-SQL using **Python, LangChain, OpenAI API, and pgvector**. I've delivered a conversational AI Business Analyst spanning 5+ ERP modules, powered by a two-LLM pipeline for query polishing and result validation.
+I'm a GenAI Engineer focused on building production-ready AI systems across Agentic AI, RAG, Local LLMs, Text-to-SQL, and AI backend engineering. I work with **Python, FastAPI, LangGraph, LangChain, Agno, PostgreSQL, pgvector, Redis, Ollama, llama.cpp**, and vLLM to build AI applications that can retrieve context, reason over data, use tools, and execute multi-step workflows.
 
 
 
 ## 🛠️ Projects
 
-### 🔹 ERP AI Business Analyst — RAG Application (Production · ViTWO.AI)
+### 🔹 ERP AI Business Analyst — RAG Application (Production)
 `Python` `LangChain` `OpenAI` `pgvector` `PySpark` `AWS S3` `FastAPI` `GPT-4`
 
 - Full-stack RAG pipeline: S3 + PySpark ingestion → OpenAI embeddings → pgvector hybrid retrieval → LangChain orchestration → GPT-4 response with rule-assisted Text-to-SQL fallback.
